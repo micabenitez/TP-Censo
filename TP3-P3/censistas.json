@@ -1,0 +1,64 @@
+{
+  "censistas": [
+    {
+      "nombre": "Agustin",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "agustin.jpg"
+    },
+    {
+      "nombre": "Ana",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "ana.jpg"
+    },
+    {
+      "nombre": "Gaston",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "gaston.jpg"
+    },
+    {
+      "nombre": "Juan",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "juan.jpg"
+    },
+    {
+      "nombre": "Luis",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "luis.jpg"
+    },
+    {
+      "nombre": "Micaela",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "micaela.jpg"
+    },
+    {
+      "nombre": "Mora",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "mora.jpg"
+    },
+    {
+      "nombre": "Natalia",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "natalia.jpg"
+    },
+    {
+      "nombre": "Nicolas",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "nicolas.jpg"
+    },
+    {
+      "nombre": "Yamila",
+      "manzanas": [],
+      "cantManzanas": 0,
+      "imagen": "yamila.jpg"
+    }
+  ]
+}
